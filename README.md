@@ -16,6 +16,6 @@ SizeRank: Population of the area, the lower the number the greater the populatio
 1996-04-XXXX-XX: indicates the historical median price within the area. (XXXX-XX indicates the latest date available at the time the data is pulled) 
 
 2. Purpose of this project: 
-- Data manipulation by using pandas. 
+- Data manipulation by using Pandas. 
 - Data visualization through bar charts, line charts and heat map (using plotly)
 
